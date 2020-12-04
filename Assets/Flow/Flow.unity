@@ -578,13 +578,13 @@ VisualEffect:
   m_Asset: {fileID: 8926484042661614526, guid: fec46cf55a8e9644391224138751d50d, type: 3}
   m_InitialEventName: OnPlay
   m_InitialEventNameOverriden: 0
-  m_StartSeed: 0
-  m_ResetSeedOnPlay: 1
+  m_StartSeed: 1986871895
+  m_ResetSeedOnPlay: 0
   m_ResourceVersion: 1
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 7.0133653
+      - m_Value: 9.022194
         m_Name: Focus Distance
         m_Overridden: 1
       - m_Value: 2

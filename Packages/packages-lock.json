@@ -58,21 +58,17 @@
         "com.unity.rendering.light-transport": "1.0.1"
       }
     },
-    "com.unity.render-pipelines.high-definition": {
+    "com.unity.render-pipelines.universal": {
       "version": "17.0.3",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.modules.video": "1.0.0",
-        "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.render-pipelines.core": "17.0.3",
         "com.unity.shadergraph": "17.0.3",
-        "com.unity.visualeffectgraph": "17.0.3",
-        "com.unity.render-pipelines.high-definition-config": "17.0.3"
+        "com.unity.render-pipelines.universal-config": "17.0.3"
       }
     },
-    "com.unity.render-pipelines.high-definition-config": {
+    "com.unity.render-pipelines.universal-config": {
       "version": "17.0.3",
       "depth": 1,
       "source": "builtin",
@@ -150,21 +146,12 @@
     },
     "com.unity.visualeffectgraph": {
       "version": "17.0.3",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.shadergraph": "17.0.3",
         "com.unity.render-pipelines.core": "17.0.3"
       }
-    },
-    "jp.keijiro.kino.post-processing": {
-      "version": "2.1.15",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.render-pipelines.high-definition": "7.4.1"
-      },
-      "url": "https://registry.npmjs.com"
     },
     "com.unity.modules.animation": {
       "version": "1.0.0",
@@ -186,12 +173,6 @@
         "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.animation": "1.0.0"
       }
-    },
-    "com.unity.modules.imageconversion": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {}
     },
     "com.unity.modules.imgui": {
       "version": "1.0.0",
@@ -225,25 +206,9 @@
     },
     "com.unity.modules.ui": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 3,
       "source": "builtin",
       "dependencies": {}
-    },
-    "com.unity.modules.unitywebrequest": {
-      "version": "1.0.0",
-      "depth": 2,
-      "source": "builtin",
-      "dependencies": {}
-    },
-    "com.unity.modules.video": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.audio": "1.0.0",
-        "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.unitywebrequest": "1.0.0"
-      }
     }
   }
 }

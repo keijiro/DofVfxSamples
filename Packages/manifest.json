@@ -9,8 +9,8 @@
     }
   ],
   "dependencies": {
-    "com.unity.render-pipelines.high-definition": "17.0.3",
+    "com.unity.render-pipelines.universal": "17.0.3",
     "com.unity.timeline": "1.8.7",
-    "jp.keijiro.kino.post-processing": "2.1.15"
+    "com.unity.visualeffectgraph": "17.0.3"
   }
 }

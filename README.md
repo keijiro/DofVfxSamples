@@ -6,3 +6,5 @@
 This repository contains Unity VFX Graph samples showing how to use the depth of field custom blocks in [VfxGraphAssets] package.
 
 [VfxGraphAssets]: https://github.com/keijiro/VfxGraphAssets
+
+You can check the WebGPU demo [here](https://www.keijiro.tokyo/WebGPU-Test/DofVfx/).

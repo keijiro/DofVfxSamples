@@ -107,10 +107,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -480
-    y: 352
-    width: 915
-    height: 351
+    x: -434
+    y: 380
+    width: 782
+    height: 253
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: -480, y: 352}
+  m_UIPosition: {x: -434, y: 380}
   m_UICollapsed: 1
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -207,7 +207,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: -208, y: 392}
+  m_UIPosition: {x: -221, y: 392}
   m_UICollapsed: 1
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -679,10 +679,10 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 25}
       inputSlot: {fileID: 16}
-    position: {x: -364, y: 505}
+    position: {x: -375.5, y: 498}
     expandedSlots: []
     expanded: 0
-    supecollapsed: 0
+    supecollapsed: 1
 --- !u!114 &25
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -862,10 +862,10 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 65}
       inputSlot: {fileID: 34}
-    position: {x: 316, y: 574}
+    position: {x: 228.5, y: 517}
     expandedSlots: []
     expanded: 0
-    supecollapsed: 0
+    supecollapsed: 1
 --- !u!114 &34
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1018,7 +1018,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: -291, y: 673}
+  m_UIPosition: {x: -278, y: 603}
   m_UICollapsed: 0
   m_UISuperCollapsed: 1
   m_InputSlots: []
@@ -1102,10 +1102,10 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 41}
       inputSlot: {fileID: 49}
-    position: {x: -253, y: 616}
+    position: {x: -251.5, y: 560}
     expandedSlots: []
     expanded: 0
-    supecollapsed: 0
+    supecollapsed: 1
 --- !u!114 &41
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1258,7 +1258,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: -102, y: 650}
+  m_UIPosition: {x: -106, y: 588}
   m_UICollapsed: 0
   m_UISuperCollapsed: 1
   m_InputSlots:
@@ -1599,7 +1599,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 2}
   m_Children: []
-  m_UIPosition: {x: 123, y: 540}
+  m_UIPosition: {x: 104, y: 524}
   m_UICollapsed: 0
   m_UISuperCollapsed: 1
   m_InputSlots:
